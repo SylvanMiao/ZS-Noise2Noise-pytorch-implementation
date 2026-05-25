@@ -7,6 +7,6 @@
 
 ```python
 
-python train.py --data_path "D:\my_noisy_images" --output_dir "results"
+python train.py --output_dir "results"
 
 ```

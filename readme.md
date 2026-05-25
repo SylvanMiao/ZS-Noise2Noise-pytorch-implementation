@@ -11,4 +11,4 @@ python train.py --output_dir "results"
 
 ```
 
-train脚本中包含巡礼与推理
+train脚本中包含训练与推理

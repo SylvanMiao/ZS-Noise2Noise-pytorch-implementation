@@ -10,3 +10,5 @@
 python train.py --output_dir "results"
 
 ```
+
+train脚本中包含巡礼与推理

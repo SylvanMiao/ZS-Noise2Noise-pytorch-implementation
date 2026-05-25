@@ -3,3 +3,4 @@ max_epoch : 3000         # training epochs per image
 lr : 0.001               # learning rate
 step_size : 1000         # number of epochs at which learning rate decays
 gamma : 0.5              # factor by which learning rate decays
+log_interval : 200       # log loss every N epochs
